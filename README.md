@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome 👋
 
 - I am Aditya Chavan currently studying ( Computer Science ) in third year at Vishwakarma Institute of Technology, Pune.
 - Please go through my projects to know my domain interests 😉
